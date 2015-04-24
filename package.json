@@ -1,0 +1,15 @@
+{
+  "name": "first-module543",
+  "version": "1.0.2",
+  "description": "blah blah",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blah",
+    "blah"
+  ],
+  "author": "Stephanie Snopek",
+  "license": "ISC"
+}
