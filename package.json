@@ -1,5 +1,5 @@
 {
-  "name": "first-module543",
+  "name": "@snopeks/first-module543",
   "version": "1.0.2",
   "description": "blah blah",
   "main": "main.js",
@@ -10,6 +10,10 @@
     "blah",
     "blah"
   ],
+  "repository":{
+    "type": "git",
+    "url": "https://github.com/snopeks/testModule.git"
+  },
   "author": "Stephanie Snopek",
   "license": "ISC"
 }
